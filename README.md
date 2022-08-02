@@ -5,4 +5,4 @@ Text Generation Using LSTM
 Spacy, Keras, Numpy
 
 Description:
-In this Repository 
+In this Repository, we will implement how to generate text using LSTM in NLP.
